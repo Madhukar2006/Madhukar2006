@@ -61,8 +61,3 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Madhukar2006.Madhukar2006&"  />
-</div>
-
-###
