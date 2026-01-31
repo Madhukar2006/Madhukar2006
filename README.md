@@ -48,9 +48,9 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
-  <img src="https://www.freelogovectors.net/wp-content/uploads/2025/06/cursor-logo-icon-freelogovectors.net_.png" height="40" alt="cursor logo" />
-    <img width="12" />
   <img src="https://developers.google.com/static/focus/images/antigravity-icon.png" height="40" alt="Antigravity" />
+  <img width="12" />
+  <img src="https://www.freelogovectors.net/wp-content/uploads/2025/06/cursor-logo-icon-freelogovectors.net_.png" height="40" alt="cursor logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
   <img width="12" />
