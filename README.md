@@ -33,6 +33,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
 </div>
+<img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/256/5968/5968322.png" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/react-js-icon.png" height="40" alt="react logo" />
 
 ###
 
