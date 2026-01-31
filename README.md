@@ -62,10 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://img.icons8.com/ios11/512/737373/github.png" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/256/5968/5968322.png" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/react-js-icon.png" height="40" alt="react logo" />
+
 </div>
 
 ###
