@@ -65,7 +65,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://img.icons8.com/ios11/512/737373/github.png" height="40" alt="github logo" />
-
+  <img width="12" />
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" alt="google colab logo" />
+  <img width="12" />
+ <img src="https://cdn-1.webcatalog.io/catalog/onlinegdb/onlinegdb-icon-filled-256.webp?v=1714775337320" height="40" alt="gdb logo" />
 </div>
+
 
 ###
