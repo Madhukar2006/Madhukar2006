@@ -2,8 +2,10 @@
 
 ###
 
-<p align="left">💻 B.Tech CSE Student
-🚀 Aspiring Software Engineer</p>
+<p align="left">
+  💻 B.Tech CSE Student <br>
+  🚀 Aspiring Software Engineer
+</p>
 
 ###
 
