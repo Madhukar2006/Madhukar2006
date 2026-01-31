@@ -1,54 +1,56 @@
 <h1 align="left">👋 Hey, I’m Madhukar</h1>
 
-###
-
 <p align="left">
   💻 B.Tech CSE Student <br>
-  🚀 Aspiring Software Engineer
+  🚀 Aspiring Software Engineer <br>
+  🌱 Learning every day, one bug at a time
 </p>
 
-###
+---
 
-<h2 align="left">About me</h2>  
+<h2 align="left">👨‍💻 About Me</h2>
 
-###
+<p align="left">
+  ✨ Creating bugs since 2024 (and fixing a few too) <br>
+  📚 Currently learning Java, Python, and Web Development <br>
+  🎯 Focused on building strong CS fundamentals and real-world skills <br>
+  🎮 Into anime and story-driven games when I’m away from the keyboard
+</p>
 
-<p align="left">✨ Creating bugs since 2024<br>📚 Currently learning Java, Python, and Web Development<br>🎯 Goal: Become a skilled software engineer with strong fundamentals<br>🎮 Fun fact: I enjoy anime and story-based games when I’m not coding</p>
+---
 
-###
-
-<h2 align="left">Tech Languages</h2>
-
-###
+<h2 align="left">🛠 Tech Languages & Frameworks</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
   <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/256/5968/5968322.png" height="40" alt="nodejs logo" />
+  <img src="https://cdn-icons-png.flaticon.com/256/5968/5968322.png" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/react-js-icon.png" height="40" alt="react logo" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/react-js-icon.png" height="40" alt="React" />
 </div>
 
-###
+---
 
-<h2 align="left">Developer Tools</h2>
-
-###
+<h2 align="left">⚙️ Developer Tools & Platforms</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://www.songshuhezi.com/img/Cursor.b0d6f28f.webp" height="40" alt="cursor logo" />
+    <img width="12" />
+  <img src="https://developers.google.com/static/focus/images/antigravity-icon.png" height="40" alt="Antigravity" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
   <img width="12" />
@@ -74,5 +76,8 @@
 
 </div>
 
+---
 
-###
+<p align="left">
+  📌 Always curious. Always building. Always improving.
+</p>
