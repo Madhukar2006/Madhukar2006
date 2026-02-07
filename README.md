@@ -76,87 +76,97 @@
 
 </div>
 
+
+---
+
+
+<h2 align="left">🚀 Featured Projects</h2>
+
+
+
+<table align="center">
+<tr>
+
+<table align="center" style="border-collapse: collapse;">
+
+<tr>
+
+<td align="center" width="25%" style="padding:12px;">
+<img src="https://placehold.co/400x250/1a1a1a/FFF?text=Project+1" width="100%" style="border-radius:16px;">
+<br><br>
+<b>🚀 Project One</b><br>
+<a href="#"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
+<a href="#"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
+</td>
+
+<td align="center" width="25%" style="padding:12px;">
+<img src="https://placehold.co/400x250/2b3137/FFF?text=Project+2" width="100%" style="border-radius:16px;">
+<br><br>
+<b>🛒 Project Two</b><br>
+<a href="#"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
+<a href="#"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
+</td>
+
+<td align="center" width="25%" style="padding:12px;">
+<img src="https://placehold.co/400x250/1a1a1a/FFF?text=Project+3" width="100%" style="border-radius:16px;">
+<br><br>
+<b>📱 Project Three</b><br>
+<a href="#"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
+<a href="#"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
+</td>
+
+<td align="center" width="25%" style="padding:12px;">
+<img src="https://placehold.co/400x250/2b3137/FFF?text=Project+4" width="100%" style="border-radius:16px;">
+<br><br>
+<b>🤖 Project Four</b><br>
+<a href="#"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
+<a href="#"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="25%" style="padding:12px;">
+<img src="https://placehold.co/400x250/1a1a1a/FFF?text=Project+5" width="100%" style="border-radius:16px;">
+<br><br>
+<b>🔥 Project Five</b><br>
+<a href="#"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
+<a href="#"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
+</td>
+
+<td align="center" width="25%" style="padding:12px;">
+<img src="https://placehold.co/400x250/2b3137/FFF?text=Project+6" width="100%" style="border-radius:16px;">
+<br><br>
+<b>⚡ Project Six</b><br>
+<a href="#"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
+<a href="#"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
+</td>
+
+<td align="center" width="25%" style="padding:12px;">
+<img src="https://placehold.co/400x250/1a1a1a/FFF?text=Project+7" width="100%" style="border-radius:16px;">
+<br><br>
+<b>🎯 Project Seven</b><br>
+<a href="#"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
+<a href="#"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
+</td>
+
+<td align="center" width="25%" style="padding:12px;">
+<img src="https://placehold.co/400x250/2b3137/FFF?text=Project+8" width="100%" style="border-radius:16px;">
+<br><br>
+<b>💻 Project Eight</b><br>
+<a href="#"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
+<a href="#"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
+</td>
+
+</tr>
+
+</table>
+
+
+
 ---
 
 <p align="left">
   📌 Always curious. Always building. Always improving.
 </p>
-
-
-
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-<img src="https://static.vecteezy.com/system/resources/previews/016/833/880/original/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" width="180" style="border-radius:15px;"><br><br>
-<b>Project 1</b><br>
-<sub>Short project description</sub><br><br>
-<a href="#">🔴 Preview</a> |
-<a href="#">💻 Code</a>
-</td>
-
-<td align="center" width="25%">
-<img src="https://static.vecteezy.com/system/resources/previews/016/833/880/original/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" width="180" style="border-radius:15px;"><br><br>
-<b>Project 2</b><br>
-<sub>Short project description</sub><br><br>
-<a href="#">🔴 Preview</a> |
-<a href="#">💻 Code</a>
-</td>
-
-<td align="center" width="25%">
-<img src="https://static.vecteezy.com/system/resources/previews/016/833/880/original/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" width="180" style="border-radius:15px;"><br><br>
-<b>Project 3</b><br>
-<sub>Short project description</sub><br><br>
-<a href="#">🔴 Preview</a> |
-<a href="#">💻 Code</a>
-</td>
-
-<td align="center" width="25%">
-<img src="https://static.vecteezy.com/system/resources/previews/016/833/880/original/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" width="180" style="border-radius:15px;"><br><br>
-<b>Project 4</b><br>
-<sub>Short project description</sub><br><br>
-<a href="#">🔴 Preview</a> |
-<a href="#">💻 Code</a>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://static.vecteezy.com/system/resources/previews/016/833/880/original/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" width="180" style="border-radius:15px;"><br><br>
-<b>Project 5</b><br>
-<sub>Short project description</sub><br><br>
-<a href="#">🔴 Preview</a> |
-<a href="#">💻 Code</a>
-</td>
-
-<td align="center">
-<img src="https://static.vecteezy.com/system/resources/previews/016/833/880/original/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" width="180" style="border-radius:15px;"><br><br>
-<b>Project 6</b><br>
-<sub>Short project description</sub><br><br>
-<a href="#">🔴 Preview</a> |
-<a href="#">💻 Code</a>
-</td>
-
-<td align="center">
-<img src="https://static.vecteezy.com/system/resources/previews/016/833/880/original/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" width="180" style="border-radius:15px;"><br><br>
-<b>Project 7</b><br>
-<sub>Short project description</sub><br><br>
-<a href="#">🔴 Preview</a> |
-<a href="#">💻 Code</a>
-</td>
-
-<td align="center">
-<img src="https://static.vecteezy.com/system/resources/previews/016/833/880/original/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" width="180" style="border-radius:15px;"><br><br>
-<b>Project 8</b><br>
-<sub>Short project description</sub><br><br>
-<a href="#">🔴 Preview</a> |
-<a href="#">💻 Code</a>
-</td>
-
-</tr>
-</table>
