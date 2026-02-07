@@ -100,11 +100,11 @@
 </td>
 
 <td align="center" width="25%" style="padding:12px;">
-<img src="https://placehold.co/400x250/2b3137/FFF?text=Project+2" width="100%" style="border-radius:16px;">
+<img src="https://i.postimg.cc/7b8h0zR3/Screenshot-2026-01-07-225030.png" width="100%" style="border-radius:16px;">
 <br><br>
-<b>🛒 Soooon </b><br>
-<a href="#"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
-<a href="#"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
+<b>🛒 Otaku Gang </b><br>
+<a href="https://otakugang.netlify.app/"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
+<a href="https://github.com/Madhukar2006/OtakuGang"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
 </td>
 
 <td align="center" width="25%" style="padding:12px;">
