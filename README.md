@@ -96,7 +96,7 @@
 <br><br>
 <b> 🌐 WebCompiler </b><br>
 <a href="#"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
-<a href="#"><img src="https://github.com/Madhukar2006/WebCompiler"></a>
+<a href="https://github.com/Madhukar2006/WebCompiler"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
 </td>
 
 <td align="center" width="25%" style="padding:12px;">
