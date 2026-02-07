@@ -94,7 +94,7 @@
 <td align="center" width="25%" style="padding:12px;">
 <img src="https://placehold.co/400x250/1a1a1a/FFF?text=Project+1" width="100%" style="border-radius:16px;">
 <br><br>
-<b>🚀 Project One</b><br>
+<b>🚀 Soooon </b><br>
 <a href="#"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
 <a href="#"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
 </td>
@@ -102,7 +102,7 @@
 <td align="center" width="25%" style="padding:12px;">
 <img src="https://placehold.co/400x250/2b3137/FFF?text=Project+2" width="100%" style="border-radius:16px;">
 <br><br>
-<b>🛒 Project Two</b><br>
+<b>🛒 Soooon </b><br>
 <a href="#"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
 <a href="#"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
 </td>
@@ -110,7 +110,7 @@
 <td align="center" width="25%" style="padding:12px;">
 <img src="https://placehold.co/400x250/1a1a1a/FFF?text=Project+3" width="100%" style="border-radius:16px;">
 <br><br>
-<b>📱 Project Three</b><br>
+<b>📱 Soooon </b><br>
 <a href="#"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
 <a href="#"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
 </td>
@@ -118,7 +118,7 @@
 <td align="center" width="25%" style="padding:12px;">
 <img src="https://placehold.co/400x250/2b3137/FFF?text=Project+4" width="100%" style="border-radius:16px;">
 <br><br>
-<b>🤖 Project Four</b><br>
+<b>🤖 Soooon </b><br>
 <a href="#"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
 <a href="#"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
 </td>
@@ -130,7 +130,7 @@
 <td align="center" width="25%" style="padding:12px;">
 <img src="https://placehold.co/400x250/1a1a1a/FFF?text=Project+5" width="100%" style="border-radius:16px;">
 <br><br>
-<b>🔥 Project Five</b><br>
+<b>🔥 Soooon </b><br>
 <a href="#"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
 <a href="#"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
 </td>
@@ -138,7 +138,7 @@
 <td align="center" width="25%" style="padding:12px;">
 <img src="https://placehold.co/400x250/2b3137/FFF?text=Project+6" width="100%" style="border-radius:16px;">
 <br><br>
-<b>⚡ Project Six</b><br>
+<b>⚡ Soooon </b><br>
 <a href="#"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
 <a href="#"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
 </td>
@@ -146,7 +146,7 @@
 <td align="center" width="25%" style="padding:12px;">
 <img src="https://placehold.co/400x250/1a1a1a/FFF?text=Project+7" width="100%" style="border-radius:16px;">
 <br><br>
-<b>🎯 Project Seven</b><br>
+<b>🎯 Soooon </b><br>
 <a href="#"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
 <a href="#"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
 </td>
@@ -154,7 +154,7 @@
 <td align="center" width="25%" style="padding:12px;">
 <img src="https://placehold.co/400x250/2b3137/FFF?text=Project+8" width="100%" style="border-radius:16px;">
 <br><br>
-<b>💻 Project Eight</b><br>
+<b>💻 Soooon </b><br>
 <a href="#"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
 <a href="#"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
 </td>
