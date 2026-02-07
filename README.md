@@ -85,37 +85,41 @@
 
 
 
-<h2 align="center">🚀 My Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
-<table>
+<table align="center">
 <tr>
 
-<td align="center">
-<img src="IMAGE_LINK_1" width="200"/><br><br>
-<b>Project 1</b><br><br>
-<a href="LIVE_LINK_1">🔴 Preview</a> |
-<a href="GITHUB_LINK_1">💻 Code</a>
+<td align="center" width="25%">
+<img src="https://static.vecteezy.com/system/resources/previews/016/833/880/original/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" width="180" style="border-radius:15px;"><br><br>
+<b>Project 1</b><br>
+<sub>Short project description</sub><br><br>
+<a href="#">🔴 Preview</a> |
+<a href="#">💻 Code</a>
 </td>
 
-<td align="center">
-<img src="IMAGE_LINK_2" width="200"/><br><br>
-<b>Project 2</b><br><br>
-<a href="LIVE_LINK_2">🔴 Preview</a> |
-<a href="GITHUB_LINK_2">💻 Code</a>
+<td align="center" width="25%">
+<img src="https://static.vecteezy.com/system/resources/previews/016/833/880/original/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" width="180" style="border-radius:15px;"><br><br>
+<b>Project 2</b><br>
+<sub>Short project description</sub><br><br>
+<a href="#">🔴 Preview</a> |
+<a href="#">💻 Code</a>
 </td>
 
-<td align="center">
-<img src="IMAGE_LINK_3" width="200"/><br><br>
-<b>Project 3</b><br><br>
-<a href="LIVE_LINK_3">🔴 Preview</a> |
-<a href="GITHUB_LINK_3">💻 Code</a>
+<td align="center" width="25%">
+<img src="https://static.vecteezy.com/system/resources/previews/016/833/880/original/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" width="180" style="border-radius:15px;"><br><br>
+<b>Project 3</b><br>
+<sub>Short project description</sub><br><br>
+<a href="#">🔴 Preview</a> |
+<a href="#">💻 Code</a>
 </td>
 
-<td align="center">
-<img src="IMAGE_LINK_4" width="200"/><br><br>
-<b>Project 4</b><br><br>
-<a href="LIVE_LINK_4">🔴 Preview</a> |
-<a href="GITHUB_LINK_4">💻 Code</a>
+<td align="center" width="25%">
+<img src="https://static.vecteezy.com/system/resources/previews/016/833/880/original/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" width="180" style="border-radius:15px;"><br><br>
+<b>Project 4</b><br>
+<sub>Short project description</sub><br><br>
+<a href="#">🔴 Preview</a> |
+<a href="#">💻 Code</a>
 </td>
 
 </tr>
@@ -123,31 +127,35 @@
 <tr>
 
 <td align="center">
-<img src="IMAGE_LINK_5" width="200"/><br><br>
-<b>Project 5</b><br><br>
-<a href="LIVE_LINK_5">🔴 Preview</a> |
-<a href="GITHUB_LINK_5">💻 Code</a>
+<img src="https://static.vecteezy.com/system/resources/previews/016/833/880/original/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" width="180" style="border-radius:15px;"><br><br>
+<b>Project 5</b><br>
+<sub>Short project description</sub><br><br>
+<a href="#">🔴 Preview</a> |
+<a href="#">💻 Code</a>
 </td>
 
 <td align="center">
-<img src="IMAGE_LINK_6" width="200"/><br><br>
-<b>Project 6</b><br><br>
-<a href="LIVE_LINK_6">🔴 Preview</a> |
-<a href="GITHUB_LINK_6">💻 Code</a>
+<img src="https://static.vecteezy.com/system/resources/previews/016/833/880/original/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" width="180" style="border-radius:15px;"><br><br>
+<b>Project 6</b><br>
+<sub>Short project description</sub><br><br>
+<a href="#">🔴 Preview</a> |
+<a href="#">💻 Code</a>
 </td>
 
 <td align="center">
-<img src="IMAGE_LINK_7" width="200"/><br><br>
-<b>Project 7</b><br><br>
-<a href="LIVE_LINK_7">🔴 Preview</a> |
-<a href="GITHUB_LINK_7">💻 Code</a>
+<img src="https://static.vecteezy.com/system/resources/previews/016/833/880/original/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" width="180" style="border-radius:15px;"><br><br>
+<b>Project 7</b><br>
+<sub>Short project description</sub><br><br>
+<a href="#">🔴 Preview</a> |
+<a href="#">💻 Code</a>
 </td>
 
 <td align="center">
-<img src="IMAGE_LINK_8" width="200"/><br><br>
-<b>Project 8</b><br><br>
-<a href="LIVE_LINK_8">🔴 Preview</a> |
-<a href="GITHUB_LINK_8">💻 Code</a>
+<img src="https://static.vecteezy.com/system/resources/previews/016/833/880/original/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" width="180" style="border-radius:15px;"><br><br>
+<b>Project 8</b><br>
+<sub>Short project description</sub><br><br>
+<a href="#">🔴 Preview</a> |
+<a href="#">💻 Code</a>
 </td>
 
 </tr>
