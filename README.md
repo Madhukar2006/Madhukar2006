@@ -118,7 +118,7 @@
 <td align="center" width="25%" style="padding:12px;">
 <img src="https://placehold.co/400x250/2b3137/FFF?text=Project+4" width="100%" style="border-radius:16px;">
 <br><br>
-<b>🤖 Soooon </b><br>
+<b> 🩺 HealthConnect </b><br>
 <a href="#"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
 <a href="#"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
 </td>
