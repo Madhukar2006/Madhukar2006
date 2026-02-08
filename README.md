@@ -110,7 +110,7 @@
 <td align="center" width="25%" style="padding:12px;">
 <img src="https://placehold.co/400x250/1a1a1a/FFF?text=Project+3" width="100%" style="border-radius:16px;">
 <br><br>
-<b>📱 Soooon </b><br>
+<b> 📝 Paperink </b><br>
 <a href="#"><img src="https://img.shields.io/badge/Preview-black?style=flat&logo=vercel"></a>
 <a href="#"><img src="https://img.shields.io/badge/Code-black?style=flat&logo=github"></a>
 </td>
