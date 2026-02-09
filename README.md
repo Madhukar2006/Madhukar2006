@@ -9,7 +9,7 @@
 ---
 
 <h2 align="left">👨‍💻 About Me</h2>
-
+ 
 <p align="left">
   ✨ Creating bugs since 2024 (and fixing a few too) <br>
   📚 Currently learning Java, Python, and Web Development <br>
