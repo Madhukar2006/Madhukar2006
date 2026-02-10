@@ -6,7 +6,7 @@
   🌱 Learning every day, one bug at a time
 </p>
 
----
+---  
 
 <h2 align="left">👨‍💻 About Me</h2>
  
