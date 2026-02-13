@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hey, I’m Madhukar</h1>
 
-<p align="left">
+<p align="left"> 
   💻 B.Tech CSE Student <br>
   🚀 Aspiring Software Engineer <br> 
   🌱 Learning every day, one bug at a time
