@@ -2,7 +2,7 @@
 
 <p align="left">
   💻 B.Tech CSE Student <br>
-  🚀 Aspiring Software Engineer <br>
+  🚀 Aspiring Software Engineer <br> 
   🌱 Learning every day, one bug at a time
 </p>
 
