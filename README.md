@@ -1,20 +1,22 @@
-<h1 align="left">👋 Hey, I’m Madhukar</h1>
+<<h1 align="left">👋 Hey, I'm Madhukar</h1>
 
-<p align="left">  
-  💻 B.Tech CSE Student <br>
-  🚀 Aspiring Software Engineer <br> 
-  🌱 Learning every day, one bug at a time 
+<p align="left">
+  💻 B.Tech CSE Student &nbsp;|&nbsp; 🚀 Aspiring Software Engineer<br>
+  🧑‍💻 Building projects, exploring new technologies, and solving problems<br>
+  🌱 Learning something new every day, one bug at a time
 </p>
 
----  
-    
-<h2 align="left">👨‍💻 About Me</h2> 
- 
+<h2 align="left">👨‍💻 About Me</h2>
+
+---
+
 <p align="left">
-  ✨ Creating bugs since 2024 (and fixing a few too) <br>
-  📚 Currently learning Java, Python, and Web Development <br>
-  🎯 Focused on building strong CS fundamentals and real-world skills <br>
-  🎮 Into anime and story-driven games when I’m away from the keyboard
+  ✨ Started creating bugs in 2024 and still proudly fixing them<br>
+  🎓 Pursuing B.Tech in Computer Science & Engineering<br>
+  💻 Exploring Java, Python, C/C++, JavaScript & Web Development<br>
+  🧠 Strengthening my DSA, programming fundamentals & problem-solving skills<br>
+  🚀 Building real-world projects to turn ideas into working software<br>
+  🎮 When I'm away from the keyboard, you'll probably find me watching anime or playing story-driven games
 </p>
 
 ---
