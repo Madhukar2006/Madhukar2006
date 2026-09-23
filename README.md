@@ -65,9 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="Notion" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
-</p>
-
-<p align="left">
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   &nbsp;
   <img src="https://cdn-1.webcatalog.io/catalog/onlinegdb/onlinegdb-icon-filled-256.webp?v=1714775337320" height="40" alt="OnlineGDB" />
