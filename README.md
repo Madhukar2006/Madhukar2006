@@ -1,4 +1,4 @@
-<<h1 align="left">👋 Hey, I'm Madhukar</h1>
+<h1 align="left">👋 Hey, I'm Madhukar</h1>
 
 <p align="left">
   💻 B.Tech CSE Student &nbsp;|&nbsp; 🚀 Aspiring Software Engineer<br>
