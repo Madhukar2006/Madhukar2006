@@ -17,7 +17,7 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
-  ✨ Started creating bugs in 2024 and still proudly fixing them<br>
+  ✨ Started creating bugs in 2021 and still proudly fixing them<br>
   🎓 Pursuing B.Tech in Computer Science & Engineering<br>
   💻 Exploring Java, Python, C/C++, JavaScript & Web Development<br>
   🧠 Strengthening my DSA, programming fundamentals & problem-solving skills<br>
