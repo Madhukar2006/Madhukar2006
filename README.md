@@ -79,6 +79,17 @@
   <img src="https://img.icons8.com/ios11/512/737373/github.png" height="40" alt="GitHub" />
 </p>
 
+<h2>🏆 Certifications & Achievements</h2>
+
+<p align="left">
+  <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEwtNIYw_LtKQ/profile-treasury-image-shrink_1280_1280/B4DZ.er1VbKsAY-/0/1785073718855?e=1790881200&v=beta&t=DyPjj_G3E4l0zw9sIzVVvYKfd2y-do9nlOU3Jm3yrH4" height="40" alt="Certificate 1" />
+  &nbsp;
+  <img src="https://media.licdn.com/dms/image/v2/D562DAQHBiB582tzPUw/profile-treasury-image-shrink_1280_1280/B56ZyywcDFHQAU-/0/1772525571367?e=1790881200&v=beta&t=SQqaPMrXcgwXZ9wzKu5XUTlvjKEPjUncAQjpKI5Pp24" height="40" alt="Certificate 2" />
+  &nbsp;
+  <img src="https://media.licdn.com/dms/image/v2/D562DAQE3WvNZdLOiYg/profile-treasury-image-shrink_1280_1280/B56ZuoZMnwHEAQ-/0/1768056737564?e=1790881200&v=beta&t=Cv5BRRoxjbdmchEJJFs3711sYFTmbXDzvLYaknBJxG0" height="40" alt="Certificate 3" />
+  &nbsp;
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
